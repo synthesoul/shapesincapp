@@ -47,9 +47,6 @@ Graduated 2021
 - Built a CLI for 128+ agents with persona contracts, audio I/O, logging, and replay.  
 - Enabled 31K+ agent conversations; implemented JSON logs and evaluation exports.  
 
-**{shape} Quantum Monitor** — Social-horror AI concept  
-- Designed a sentient monitor agent with strict output contracts and channel indexing.  
-
 **Cloud Full-Stack App** — AWS Lambda/API Gateway, Angular, Node, Docker  
 - Built a MEAN-style app with JWT authentication and CI/CD to AWS CloudFront.  
 
