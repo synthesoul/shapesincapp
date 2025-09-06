@@ -2,15 +2,11 @@
 
 Dear Shapes Team,
 
-I am applying for the Senior Software Engineer – Frontend role at Shapes, Inc. My passion lies in creating interfaces that make AI feel alive and approachable, and my projects reflect that. I’ve built a variety of **frontends for AI and embedded systems**, including visualization tools for agents, replayable logs, and LCD-driven interfaces on Raspberry Pi.
+I am applying for the Senior Software Engineer – Frontend role at Shapes, Inc. I craft conversation-first interfaces that make AI feel approachable and consistent. My projects emphasize micro-interactions, structured outputs, and replay features that build trust—principles reflected in the Shapes Learning Hub and the Shape creation flow.
 
-My **Shapes CLI** project explored not only backend orchestration but also how users experience AI through design. I emphasized **micro-interactions, structured outputs, and replay features** that make conversations feel consistent and trustworthy. In addition, I developed full-stack apps with **Angular, React, Tailwind, and shadcn/ui**, and implemented accessible UI components for cloud-hosted apps using AWS.
+I’ve built frontends with React/Angular/Tailwind/shadcn, and I pair UI polish with data/agent concerns (prompt contracts, memory, evaluation logs). I’ve also shipped a cloud app (AWS Lambda + Angular/Node) and hardware-driven interfaces (Raspberry Pi LCD): varied contexts, same priority on clarity and feedback.
 
-I believe strongly in Shapes’ vision of building **the interface through which humanity will experience AGI**, and I bring a combination of **frontend craft (React, Next.js, Angular)** and **AI experimentation** that positions me well to design intuitive tools for creating, managing, and visualizing Shapes.
+I value ownership and precise execution, and I’m beginning an M.S. in Computer Science (AI concentration) at SNHU on November 10, 2025. I’d love to help design the tools that creators will use to build, customize, and visualize their Shapes.
 
-I would be honored to contribute to your mission by helping design frontends that feel as natural as friendships.
-
-Thank you for your consideration.
-
-Sincerely,  
-**Christian J. Busca**
+Sincerely,
+Christian J. Busca

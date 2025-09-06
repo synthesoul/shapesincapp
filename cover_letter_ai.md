@@ -2,13 +2,13 @@
 
 Dear Shapes Team,
 
-I am excited to apply for the Senior Software Engineer – AI role at Shapes, Inc. Over the past year, I have created and maintained **128 AI agents (“Shapes”)**, supporting **31,000+ conversations** while designing structured prompts, memory systems, and orchestration flows that mirror your vision of agents that feel like companions rather than calculators.
+I am excited to apply for the Senior Software Engineer – AI role at Shapes, Inc. Over the past year, I have created and maintained 128 AI agents (“Shapes”), supporting 31,000+ conversations while designing structured prompts, memory systems, and orchestration flows that reflect your vision of agents that feel like companions rather than calculators.
 
-My work includes building the **Shapes CLI**, a Python-based tool with model routing, audio I/O, and replayable session logs, and exploring experimental interfaces like **{shape}**, a stateful monitor agent designed to test strict output contracts and replay mechanics. These projects have given me practical experience in **prompt engineering, evaluation harnesses, and RAG-style architectures**, aligning directly with your need for fine-tuning pipelines, ingestion systems, and evaluation frameworks.
+My work includes building the Shapes CLI, a Python-based tool with model routing, audio I/O, and replayable session logs, and developing interfaces influenced by the Shapes Learning Hub and the Shape API to improve customization and conversational persistence. These projects gave me practical experience in prompt engineering, model evaluation harnesses, and RAG-style architectures, aligning with your needs for fine-tuning pipelines, data ingestion, and rigorous evaluation frameworks.
 
-I bring a combination of hands-on systems experience and academic foundation: **U.S. Air Force veteran**, **B.S. in Computer Science (Software Engineering Concentration, GPA 3.77)**, and strong backend and DevOps experience (FastAPI, Node/Express, AWS Lambda, Docker, PostgreSQL, Redis). I am drawn to Shapes’ mission of redefining how humans interact with AI and would be thrilled to help engineer infrastructure that supports hundreds of thousands of concurrent agents.
+I bring hands-on systems experience and an academic foundation: U.S. Air Force veteran, B.S. in Computer Science (Software Engineering Concentration, GPA 3.77), and strong backend/DevOps experience (FastAPI, Node/Express, AWS Lambda, Docker, PostgreSQL, Redis). To deepen my expertise, I begin an M.S. in Computer Science (AI concentration) at SNHU on November 10, 2025.
 
-Thank you for considering my application. I welcome the opportunity to contribute to Shapes’ future as the interface for AGI.
+Thank you for considering my application. I look forward to contributing to the AI stack that supports large-scale, multi-user Shape interactions.
 
-Sincerely,  
-**Christian J. Busca**
+Sincerely,
+Christian J. Busca

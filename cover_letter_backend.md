@@ -2,15 +2,13 @@
 
 Dear Shapes Team,
 
-I am writing to apply for the Senior Software Engineer – Backend role at Shapes, Inc. With experience designing network infrastructure in the U.S. Air Force and at WireKor LLC, as well as building AI ecosystems from scratch, I bring a strong background in **distributed systems, API design, and real-time interactions**.
+I am applying for the Senior Software Engineer – Backend role at Shapes, Inc. My background spans network engineering (U.S. Air Force; WireKor LLC) and building agent ecosystems with logging, replay, and persona contracts—experience that maps well to real-time, event-driven backends.
 
-For my **Shapes CLI** project, I architected backend flows to manage **128+ agents** with strict persona contracts and replayable logs, handling **31K+ messages** across multiple contexts. I also developed **state-machine-driven systems** on Raspberry Pi (Python, GPIO, I²C LCD) and a **serverless full-stack app** (AWS Lambda, API Gateway, S3, Angular, Node) that demonstrate my ability to design reliable, event-driven architectures.
+For my Shapes CLI project, I designed backend flows handling 128+ agents and 31K+ messages across multiple contexts. I built low-latency, replayable logs; structured persona contracts; and reliability features suited to multi-user systems. I’ve also delivered a serverless full-stack app (AWS Lambda, API Gateway, S3/CloudFront, Angular/Node) and embedded Pi projects with state machines—evidence of sound systems thinking.
 
-My technical skills align with your stack: **Python, Node.js, REST/WebSockets, Redis, MongoDB, and Docker**. I have practical experience in optimizing **latency-sensitive systems** and ensuring stability in multi-user contexts, and I thrive in environments where ownership and scalability matter most.
+I work daily with Python/Node, REST/WebSockets, Redis, Mongo/Postgres, and Docker. I focus on scalability and latency, and I’m comfortable owning systems end-to-end. I’m also beginning an M.S. in Computer Science (AI concentration) at SNHU on November 10, 2025.
 
-I am enthusiastic about Shapes’ mission of making AI agents socially indispensable and would welcome the chance to help build backend systems that can scale to **300,000+ active agents**.
+I’m excited to help architect and optimize the distributed infrastructure that powers Shape memory, knowledge, and real-time interactions at scale.
 
-Thank you for your time and consideration.
-
-Sincerely,  
-**Christian J. Busca**
+Sincerely,
+Christian J. Busca
